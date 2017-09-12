@@ -1,8 +1,7 @@
 {
     "require": {
         "twig/twig": "^2.0",
-        "symfony/routing": "^3.3",
-        "klein/klein": "^2.1"
+        "nikic/fast-route": "^1.2"
     },
     "autoload": {
     	"psr-4": {
